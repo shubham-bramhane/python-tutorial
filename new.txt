@@ -1,0 +1,25 @@
+FULL STACK DEVELOPER ->
+
+    a deveoper which have the knowledge of front end to deployment
+
+
+    1) front end -> 
+                i> html
+                ii> css
+                iii> javascript
+                iv> bootstrap
+
+    2) back end -> 
+            i>php
+            ii> python
+            iii>java
+            iv>.net
+
+
+    3) database ->
+        i>mysql
+    4) deployment ->
+        i> aws
+
+
+
